@@ -1,5 +1,5 @@
 # ![graph1](doc/logo.png)
-
+http://54.205.134.57:5000/static/dogdentity/public/index.html#/
 DogDentity is a two-week Data Science project, by Charles Lynn, done during the Galvanize immersive program. The goal of this project was to explore the proficiency of convolutional neural networks at identifying variations within canine breeds by images. DogDentity includes 36 unique breeds* and has validation accuracy of 47.8%; random guessing is 2.7%. Over 31,000 images scraped from image-net.org were used in training the neural network. Techniques such as image augmentation, further prevented overfitting and increase validation accuracy.
 
 ![graph1](doc/graph1.png)
