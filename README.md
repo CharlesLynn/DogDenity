@@ -37,7 +37,8 @@ Clean data is important, many of the collected images have extraneous background
 
  API by Charles Lynn, Web Design by Chris Castro.
 
-- [DogDenity API GitHub](https://github.com/CharlesLynn/DogDenity_API)
+- [GitHub - DogDenity API](https://github.com/CharlesLynn/DogDenity_API)
+- [GitHub - DogDenity Website](https://github.com/quadsurf/dogdentity)
 - [DogDenity Website (Under Construction!)](http://54.205.134.57:5000/static/dogdentity/public/index.html)
 
 ## *Included breeds:
