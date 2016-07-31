@@ -19,6 +19,7 @@ Clean data is important, many of the collected images have extraneous background
 - [Theano](http://deeplearning.net/software/theano/)
 - [OpenCV](http://opencv.org/)
 - [Keras](http://keras.io/)
+- [AWS EC2](https://aws.amazon.com/)
 
 
 *Included breeds:  Basset Hound, Husky, Beagle, King Charles Spaniel, Bernese Mountain Dog, Labrador, Border Collies, Mastiff, Boston Terrier, Minature Schnauzer, Boxer, Newfoundlands, Brittany Spaniel, Pointer Shorthaired, Chihuahua, Pomeranian, Cocker Spaniel, Poodle, Corgi, Pug, Dachshund, Rhodesian Ridgeback, Doberman, Rottweiler, English Bulldog, Shetland Sheepdog, French Bulldog, Shih Tzu, German Shepherd, Vizsla, Giant Schnauzer, Weimaraner, Golden Retrievers, West Highland White Terrier, Great Dane, Yorkshire Terrier.
