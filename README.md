@@ -9,13 +9,22 @@ DogDentity is a two-week Data Science project, by Charles Lynn, done during the 
 API and Backend including data collection, by Charles Lynn.
 
 ## Website Demo 
+<p align="center">
+  <img align="middle" src="doc/website.png" alt="website1" height="300" width="400">
+  <img align="middle" src="doc/website2.png" alt="website2" height="300" width="400>
+</p>
+
+
 - [DogDenity API GitHub](https://github.com/CharlesLynn/DogDenity_API)
 - [DogDenity Website (Under Construction!)](http://54.205.134.57:5000/static/dogdentity/public/index.html)
 
 ## Future Work
-Clean data is important, many of the collected images have extraneous background information that creates noise when training the model. By cropping the dataset using a trained OpenCV classifier, the model's accuracy will be significantly increased.
+Clean data is important, many of the collected images have extraneous background information that creates noise when training the model. By cropping the dataset using a trained OpenCV classifier, the model's accuracy can be significantly increased.
+<p align="center">
+  <img align="middle" src="doc/opencv-python.jpg" alt="opencv-python">
+  <img align="middle" src="doc/crop.png" alt="cv2crop">
+</p>
 
-<img align="middle" src="doc/crop.png" alt="cv2crop">
 
 ## Technologies Used
 - [python](https://www.python.org/)
