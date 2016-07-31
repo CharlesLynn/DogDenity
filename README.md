@@ -15,7 +15,7 @@ API and Backend including data collection, by Charles Lynn.
 ## Future Work
 Clean data is important, many of the collected images have extraneous background information that creates noise when training the model. By cropping the dataset using a trained OpenCV classifier, the model's accuracy will be significantly increased.
 
-<div style="text-align:center"><img src ="doc/crop.png" /></div>
+<img align="middle" src="doc/crop.png" alt="cv2crop">
 
 ## Technologies Used
 - [python](https://www.python.org/)
