@@ -33,12 +33,10 @@ Clean data is important, many of the collected images have extraneous background
 
 
 ## Website Demo 
-<p align="center">
-  <img align="middle" src="doc/website.png" alt="website1" height="300" width="400">
-  <img align="middle" src="doc/website2.png" alt="website2" height="300" width="400>
-</p>
+![website](doc/website3.png)
 
-- API by Charles Lynn, Web Design by Chris Castro.
+ API by Charles Lynn, Web Design by Chris Castro.
+
 - [DogDenity API GitHub](https://github.com/CharlesLynn/DogDenity_API)
 - [DogDenity Website (Under Construction!)](http://54.205.134.57:5000/static/dogdentity/public/index.html)
 
