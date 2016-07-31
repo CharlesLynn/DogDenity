@@ -7,6 +7,14 @@ DogDentity is a two-week Data Science project, by Charles Lynn, done during the 
 ![CNN](doc/CNN2.png)
 Looking at pixels individually has little to no valuable information for person or a neural network. Pixels must be looked at togeather in groupings to have distgunible features or values. This is why I used a Convutional Neural Network, the convlutional layers process portions of the input image, called receptive fields. From these fields the neural network can learn features that generalize to images outsite the training set. 
 
+## Results
+![CNN](doc/graph1.png)
+- 36 Breeds (most popular)
+- Validation accuracy of 47.8%
+- Random guessing is 2.7%
+- Image Agumentaions: Rotation, Zooming, Horizontal flipping
+
+Image Agumentaion drastically reduced overfitting. Dropout was not necessary.
 
 ## Future Work
 Clean data is important, many of the collected images have extraneous background information that creates noise when training the model. By cropping the dataset using a trained OpenCV classifier, the model's accuracy could be significantly increased.
@@ -29,8 +37,8 @@ Clean data is important, many of the collected images have extraneous background
   <img align="middle" src="doc/website.png" alt="website1" height="300" width="400">
   <img align="middle" src="doc/website2.png" alt="website2" height="300" width="400>
 </p>
+
 - API by Charles Lynn, Web Design by Chris Castro.
-- 
 - [DogDenity API GitHub](https://github.com/CharlesLynn/DogDenity_API)
 - [DogDenity Website (Under Construction!)](http://54.205.134.57:5000/static/dogdentity/public/index.html)
 
