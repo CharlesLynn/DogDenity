@@ -39,7 +39,7 @@ Clean data is important, many of the collected images have extraneous background
 
 - [GitHub - DogDenity API](https://github.com/CharlesLynn/DogDenity_API)
 - [GitHub - DogDenity Website](https://github.com/quadsurf/dogdentity)
-- [DogDenity Website (Under Construction!)](http://54.205.134.57:5000/static/dogdentity/public/index.html)
+- [DogDenity Website](http://dogdentity.com/static/index.html#/)
 
 ## *Included breeds:
 Basset Hound, Husky, Beagle, King Charles Spaniel, Bernese Mountain Dog, Labrador, Border Collies, Mastiff, Boston Terrier, Minature Schnauzer, Boxer, Newfoundlands, Brittany Spaniel, Pointer Shorthaired, Chihuahua, Pomeranian, Cocker Spaniel, Poodle, Corgi, Pug, Dachshund, Rhodesian Ridgeback, Doberman, Rottweiler, English Bulldog, Shetland Sheepdog, French Bulldog, Shih Tzu, German Shepherd, Vizsla, Giant Schnauzer, Weimaraner, Golden Retrievers, West Highland White Terrier, Great Dane, Yorkshire Terrier.
